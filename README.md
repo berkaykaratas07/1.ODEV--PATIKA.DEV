@@ -1,2 +1,3 @@
-# Patika.dev-Odev-1
-Patika.dev html ilk odev
+# Patika.dev Ilk Odev
+
+## https://app.patika.dev/pnax
